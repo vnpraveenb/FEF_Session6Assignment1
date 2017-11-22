@@ -1,0 +1,14 @@
+div {
+    background-color: rgb(228, 244, 245);
+    padding: 10px;
+    width: 500px;
+    margin: 25px;
+}
+
+#before, #after{
+    color: rgb(56, 56, 56);
+}
+
+hr{
+    color: darkgrey;
+}
